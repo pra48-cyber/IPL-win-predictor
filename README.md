@@ -15,3 +15,7 @@ Streamlit (for the web app)
 
 #Alogorithm 
 Logistic Regression 
+
+#Deployed Model:
+Deploy using Render: https://ipl-win-predictor-1-kl8d.onrender.com
+Deploy using Streamlit: https://ipl-win-predictor-ibat4jjgawwpzrvrgtpdya.streamlit.app/

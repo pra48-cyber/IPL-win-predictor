@@ -6,7 +6,7 @@ This project leverages the power of **machine learning** to predict the winning 
 ---
 
 <p align="center">
-  <img src="[screenshot.png](https://github.com/user-attachments/assets/aa300501-f30d-4e60-b30b-38f66a204df2)" alt="App Screenshot" width="80%" style="border-radius: 8px; box-shadow: 0 4px 24px #00000033;">
+  <img src="452788516-aa300501-f30d-4e60-b30b-38f66a204df2.png" alt="App Screenshot" width="80%" style="border-radius: 8px; box-shadow: 0 4px 24px #00000033;">
 </p>
 
 ---
